@@ -1,0 +1,16 @@
+{
+  "name": "hello-next",
+  "version": "1.0.0",
+  "description": "Getting started with Next.js",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^1.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next"
+  },
+  "author": "John Jullies Palma",
+  "license": "ISC"
+}
